@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/page/more/</loc>
+    <loc>https://spbans.github.io/page/more/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://spbans.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://spbans.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/</loc>
+    <loc>https://spbans.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://spbans.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/debt/</loc>
+    <loc>https://spbans.github.io/page/debt/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/iv-jub/</loc>
+    <loc>https://spbans.github.io/page/iv-jub/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/arc-event/</loc>
+    <loc>https://spbans.github.io/page/arc-event/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/arc-meet/</loc>
+    <loc>https://spbans.github.io/page/arc-meet/</loc>
   </url>
   
 </urlset>

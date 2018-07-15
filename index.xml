@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on assoc</title>
-    <link>http://www.example.com/</link>
+    <link>https://spbans.github.io/</link>
     <description>Recent content in Home on assoc</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spbans.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.example.com/page/more/</link>
+      <link>https://spbans.github.io/page/more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/page/more/</guid>
+      <guid>https://spbans.github.io/page/more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debt</title>
-      <link>http://www.example.com/page/debt/</link>
+      <link>https://spbans.github.io/page/debt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/page/debt/</guid>
+      <guid>https://spbans.github.io/page/debt/</guid>
       <description>Задолженность по уплате членских взносов по состоянию на 12 марта 2017 года
    ФИО месяцев сумма задолженности     Иванов А.С. 12 1200 руб.   Петов В.А. 24 2400 руб.   Сидоров В.Ы. 24 2400 руб.   Кузнецов В.А. 5 400 руб.   Иванов А.С. 12 1200 руб.   Петов В.А. 24 2400 руб.   Сидоров В.Ы. 24 2400 руб.</description>
     </item>
     
     <item>
       <title>iv-jub</title>
-      <link>http://www.example.com/page/iv-jub/</link>
+      <link>https://spbans.github.io/page/iv-jub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/page/iv-jub/</guid>
+      <guid>https://spbans.github.io/page/iv-jub/</guid>
       <description>Сегодня в БДТ имени Г.А. Товстоногова прошли торжества, посвященные 85-летию Санкт-Петербургского научно-исследовательского института скорой помощи им. И.И. Джанелидзе.
 В рамках мероприятия были зачитаны поздравления Президента Российской Федерации и Председателя Совета Федерации Федерального собрания Российской Федерации.
 Коллектив института поздравил губернатор Санкт-Петербурга Георгий Полтавченко. Он подчеркнул, что НИИ скорой помощи имени Джанелидзе – это уникальное учреждение, одна из лучших многопрофильных клиник не только нашего города, но и страны. «Институт стал настоящим брендом петербургской медицины.</description>
@@ -41,19 +41,19 @@
     
     <item>
       <title>list-events</title>
-      <link>http://www.example.com/page/arc-event/</link>
+      <link>https://spbans.github.io/page/arc-event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/page/arc-event/</guid>
+      <guid>https://spbans.github.io/page/arc-event/</guid>
       <description>Архив событий  11.07.18  110 лет со дня рождения  поздравляем с юбилеем Иванова И.И. полный текст   11.09.2018-25.09.2018  10-й съезд нейрохирургов России  пройдет в Санкт-Петербурге гостиница Прибалтийская программа   21.08.18  лекция профессора Смита  лекция посвященная проблемам функциональной нейрохирургии состоится во 2ГБ программа   27.12.18  Мастер-класс Хирургия позвоночника  состоится на базе 122 МСЧ программа</description>
     </item>
     
     <item>
       <title>list-meetings</title>
-      <link>http://www.example.com/page/arc-meet/</link>
+      <link>https://spbans.github.io/page/arc-meet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/page/arc-meet/</guid>
+      <guid>https://spbans.github.io/page/arc-meet/</guid>
       <description>Архив заседаний ассоциации  2018-07-10  Функциональная нейрохирургия  Заседание пройдет на базе: 2-я ГБ, пер Учебный д.2   Иванов А.В., Петров В.А.  Тригеминальная невралгия  Васильев А.В., Григорьев П.А.  Паркинсонизм Петров.К.А., Романов Р.Р.  Болевые синдромы Программа заседания 2018-09-21  Опухоли головного мозга у детей  Заседание пройдет на базе: РНХИ им Поленова Маяковского 12, актовый зал   Васильев В.</description>
     </item>
     
