@@ -1,0 +1,144 @@
+@import url('//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css');
+
+pre {
+    border-radius: 0;
+}
+
+.s100 {
+    width: 130px;
+    height: 130px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 3px;
+}
+
+.remove-margin-bottom {
+    margin-bottom: 0;
+}
+
+.pagination ul {
+  list-style: none;
+    padding: 0;
+    background: #f4f4f4;
+    border-radius: 0;
+    border: 1px solid #e0e0e0;
+    display: inline-block;
+}
+
+.pagination li {
+  float: left;
+  border-right: 1px solid #e0e0e0;
+}
+
+.pagination ul a {
+    line-height: 1;
+    font-size: 13px;
+    color: #999;
+    display: block;
+    text-align: center;
+    padding: 16px 6px;
+    min-width: 2em;
+}
+
+a.category {
+  background-color: #ddd;
+  padding-right: .2em;
+  padding-left: .2em;
+}
+
+.infobox {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.details {
+
+    padding: 10px 14px 10px;
+}
+
+.xlg {
+     height: auto;
+}
+
+
+.infobox time {
+    display: inline-block;
+    padding: 10px 5px 10px 14px;
+}
+
+.infobox h2, h3 {
+    margin: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.infobox-date {
+    display: inline-block;
+    padding: 10px 5px 10px 14px;
+}
+
+.infobox-date-d {
+    font-size: 3em;
+    font-weight: 800;
+    line-height: 0.9;
+    margin-right: 7px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.infobox-date-my {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.list-header {
+    height: 20px;
+    background-color: #f8f9fb;
+    border-top: 1px solid #dae1e9;
+    margin-bottom: 15px;
+}
+
+.media-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.media {
+    zoom: 1;
+    overflow: hidden;
+}
+
+.media-body {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.media-heading {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.header-divider {
+    height: 20px;
+    background-color: #f8f9fb;
+    border-top: 1px solid #dae1e9;
+    margin-bottom: 15px;
+}
+
+
+.emph {
+    color: rgb(255,82,82);
+    font-weight: 700;
+}
